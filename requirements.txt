@@ -16,4 +16,5 @@ tqdm
 typer
 upsetplot
 statsmodels
+itertools
 -e .
