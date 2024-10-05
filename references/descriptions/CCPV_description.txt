@@ -1,0 +1,38 @@
+
+2000:
+En el Censo General de Población y Vivienda del 2000 se utilizaron dos cuestionarios, el básico y el ampliado. El primero para obtener información sobre la vivienda, los hogares y las personas; el segundo, para precisar algunos datos sobre la vivienda y las personas e incluyó preguntas sobre la migración internacional en los últimos cinco años.
+Los tabulados interactivos contienen información del cuestionario básico
+2005:
+Los tabulados del II Conteo de Población y Vivienda 2005 contienen información para el ámbito nacional, entidad federativa y municipio o delegación, sobre la distribución y composición de la población, fecundidad, migración, derechohabiencia a servicios de salud, lengua indígena, características educativas, vivienda y hogares
+2010:
+Los tabulados sobre la Infraestructura y características del entorno urbano ofrecen una nueva visión sobre las condiciones de vida de la población en las localidades de 5 mil y más habitantes, se presentan para el total nacional y se desagrega por entidad federativa, municipio y localidad. 
+(Ver más:https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/entorno_urbano_tabulados.pdf)
+Los tabulados sobre Localidades con menos de 5 mil habitantes surgen de la incorporación de nuevos temas de investigación para mejorar y ampliar la oferta de información sociodemográfica que se ha captado al respecto en los censos de población y vivienda. Constituye un complemento para conocer las condiciones de vida de la población al utilizar a la localidad como unidad de observación y de análisis. 
+(Ver más:https://www.inegi.org.mx/contenidos/programas/ccpv/2010/doc/loc_menos_5mil_tabulados.pdf)
+
+Nota:
+Derivado de la sentencia emitida por el Pleno de la Suprema Corte de Justicia de la Nación respecto a la Controversia Constitucional 41/2011, se publican, con fecha 26 de junio de 2013, todos los resultados del Censo de Población y Vivienda 2010 para los municipios de Tultepec, Nextlalpan y Tultitlán, estado de México
+
+2020:
+El Censo de Población y Vivienda 2020 utilizó dos instrumentos de captación para recabar los datos de las viviendas habitadas y sus ocupantes: el Cuestionario Básico, con el que se realizó la enumeración exhaustiva y el cual se conformó por 38 preguntas; y el Cuestionario Ampliado, el cual se levantó en una muestra probabilística de cerca de 4 millones de viviendas, se integró con 103 preguntas, entre las cuales se incluyen las del Cuestionario Básico.
+Al mismo tiempo, se determinó efectuar operativos para captar datos sobre las Características de las Localidades, las del Entorno Urbano y las de los Alojamientos de Asistencia Social, a través de sus respectivos cuestionarios. El de Localidad se integró por 45 preguntas, y se aplicó en localidades con menos de 2 500 habitantes; el de Entorno Urbano, con 23 preguntas, se aplicó en localidades de 2 500 o más habitantes; y el de Alojamientos de Asistencia Social, con 91 preguntas.
+El 25 de enero de 2021, en este apartado se publicaron los resultados del Cuestionario Básico, por medio de tabulados predefinidos, así como de tabulados interactivos, a partir de los cuales la población usuaria puede generar tabulados personalizados sobre las características de la población y las viviendas del país.
+Además, el 16 de marzo de 2021, se publicaron los tabulados predefinidos del Cuestionario Ampliado, así como de los proyectos asociados del Censo 2020: Entorno Urbano, Localidad y Alojamientos de Asistencia Social.
+El 26 de julio de 2021, en los Tabulados predefinidos del Cuestionario Ampliado, se incorporaron tabulados para todas las entidades federativas de los temas: Migración, Etnicidad, Servicios de salud, Movilidad cotidiana y Alimentación; así como los tabulados de todos los temas por distrito para la entidad de Oaxaca. Asimismo, se publicó el tabulado Migración origen-destino según lugar de residencia en marzo de 2015 y residencia en 2020, generado a partir de los resultados del Cuestionario Básico.
+Además, derivado de una revisión exhaustiva de la información del Cuestionario Ampliado se identificó la necesidad de realizar cambios en algunas variables en la base de datos y en tabulados ya publicados. 
+
+Documentos de apoyo:
+Guía rápida para el uso de los tabulados en Excel:https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/Censo2020_guia_tabulados.pdf
+Criterios de agrupación para generar los tabulados predefinidos del Cuestionario Básico
+
+Nacional/Estatal:https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/Censo2020_criterios_tabulados_CPV_nal_est.pdf
+Estatal/Municipal:https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/Censo2020_criterios_tabulados_CPV_est_mun.pdf
+
+Criterios de agrupación para generar los tabulados predefinidos del Cuestionario Ampliado
+Nacional/Estatal:https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/Censo2020_criterios_tabulados_CPV_nal_est_amp.pdf
+Estatal/Municipal:https://www.inegi.org.mx/contenidos/programas/ccpv/2020/doc/Censo2020_criterios_tabulados_CPV_est_mun_amp.pdf
+Nota: La Suprema Corte de Justicia de la Nación, al resolver la Controversia Constitucional 39/2020, declaró la invalidez del Decreto 547 emitido por el H. Congreso del Estado de Veracruz de Ignacio de la Llave. Con ese sustento legal, se modificó el Marco Geoestadístico 2023, dejando de considerar los efectos del Decreto 547, por lo que se procesó la población total por municipio según sexo, tomando como insumo la información del Censo 2020, referida al 15 de marzo de 2020
+
+
+
+        
