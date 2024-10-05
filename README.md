@@ -34,7 +34,10 @@ Nos apoyaremos del Censo General de Población y Vivienda de varios años para o
 │   └── raw            <- The original, immutable data dump.
 │
 ├── docs               <- A default mkdocs project; see www.mkdocs.org for details
-│
+├── helpers            <- Esta carpeta se utiliza para colocar funciones de utilidad
+│                         o archivos auxiliares que pueden ser reutilizados en todo el
+│                         proyecto.
+│        
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
