@@ -77,3 +77,21 @@ Nos apoyaremos del Censo General de Población y Vivienda de varios años para o
 
 --------
 
+    Instalación y configuración de proyecto
+
+- Instalar pip: https://pypi.org/project/pip/
+
+- Instalar python: https://www.python.org/downloads/
+
+- Con pip crear entorno virtual: python3 -m venv nombre_del_entorno
+
+- Activar entorno virtual: 
+    - Windows:
+        nombre_del_entorno\Scripts\activate
+    - macOS/Linux:
+        source nombre_del_entorno/bin/activate
+
+- Ejecutar : pip install -r requirements.txt
+ 
+- Con pip instalar : pip install cookiecutter-data-science
+ 
