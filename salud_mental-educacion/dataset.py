@@ -295,6 +295,346 @@ def main():
         "file_name": "ENSANUT-Adultos-Datos-2023.zip"
         }
     ]
+
+    ccpv_siglo_XX= [
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/1950/tabulados/cgp50_nal_educacion.xlsx",
+            "data": "REFUT1MgU0lHTE8gWFg=",
+            "file_name": "cgp50_nal_educacion.xlsx"
+        },
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/1960/tabulados/CGP60_nal_Educacion.xlsx",
+            "data": "REFUT1MgU0lHTE8gWFg=",
+            "file_name": "CGP60_nal_Educacion.xlsx"
+        },
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/1970/tabulados/cgp70_nal_educacion.xlsx",
+            "data": "REFUT1MgU0lHTE8gWFg=",
+            "file_name": "cgp70_nal_educacion.xlsx"
+        },
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/1980/tabulados/cpyv80_nal_educacion.xlsx",
+            "data": "REFUT1MgU0lHTE8gWFg=",
+            "file_name": "cpyv80_nal_educacion.xlsx"
+        },
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/1990/tabulados/CPyV90_Nal_Caracteristicas_educativas.xlsx",
+            "data": "REFUT1MgU0lHTE8gWFg=",
+            "file_name": "CPyV90_Nal_Caracteristicas_educativas.xlsx"
+        },
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/1995/tabulados/Cont95Enum_NAL_Caracteristicas_educativas.xlsx",
+            "data": "REFUT1MgU0lHTE8gWFg=",
+            "file_name": "Cont95Enum_NAL_Caracteristicas_educativas.xlsx"
+        }
+        
+       
+   
+]
+
+    ccpv_siglo_XXI= [
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/2000/datosabiertos/cgpv2000_iter_00_csv.zip",
+            "data": "REFUT1MgU0lHTE8gWFhJ",
+            "file_name": "cgpv2000_iter_00_csv.zip"
+        },
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/2005/datosabiertos/cpv2005_iter_00_csv.zip",
+            "data": "REFUT1MgU0lHTE8gWFhJ",
+            "file_name": "cpv2005_iter_00_csv.zip"
+        },
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/2010/datosabiertos/iter_nal_2010_csv.zip",
+            "data": "REFUT1MgU0lHTE8gWFhJ",
+            "file_name": "iter_nal_2010_csv.zip"
+        },
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/ccpv/2020/datosabiertos/iter/iter_00_cpv2020_csv.zip",
+            "data": "REFUT1MgU0lHTE8gWFhJ",
+            "file_name": "iter_00_cpv2020_csv.zip"
+        }
+    ]
+
+    enape_2021=[
+
+        {
+            "url": "https://www.inegi.org.mx/contenidos/programas/enape/2021/datosabiertos/conjunto_de_datos_enape_2021_csv.zip",
+            "data": "RU5DVUVTVEEgTkFDSU9OQUwgU09CUkUgQUNDRVNPIFkgUEVSTUFORU5DSUEgRU4gTEEgRURVQ0FDSU9OIDIwMjE=",
+            "file_name": "conjunto_de_datos_enape_2021_csv.zip"
+        }
+        
+    ]
+       
+    sep_2023=[
+        {
+            "url": "https://www.planeacion.sep.gob.mx/Doc/estadistica_e_indicadores/indicadores/reporte_indicadores_educativos_sep_2023.xls",
+            "data": "UkVQT1JURSBERSBJTkRJQ0FET1JFUyBFRFVDQVRJVk9T",
+            "file_name": "reporte_indicadores_educativos_sep_2023.xls"
+        }
+    ]
+    enoe=[
+      {  'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2008/conjunto_de_datos_enoe_2008_1t_csv.zip ',
+         'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+         'file_name': 'conjunto_de_datos_enoe_2008_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2008/conjunto_de_datos_enoe_2008_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2008_2t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2008/conjunto_de_datos_enoe_2008_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2008_3t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2008/conjunto_de_datos_enoe_2008_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2008_4t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2009/conjunto_de_datos_enoe_2009_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2009_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2009/conjunto_de_datos_enoe_2009_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2009_2t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2009/conjunto_de_datos_enoe_2009_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2009_3t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2009/conjunto_de_datos_enoe_2009_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2009_4t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2010/conjunto_de_datos_enoe_2010_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2010_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2010/conjunto_de_datos_enoe_2010_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2010_2t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2010/conjunto_de_datos_enoe_2010_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2010_3t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2010/conjunto_de_datos_enoe_2010_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2010_4t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2011/conjunto_de_datos_enoe_2011_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2011_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2011/conjunto_de_datos_enoe_2011_2t_csv.zip  ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2011_2t_csv.zip  '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2011/conjunto_de_datos_enoe_2011_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2011_3t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2011/conjunto_de_datos_enoe_2011_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2011_4t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2012/conjunto_de_datos_enoe_2012_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2012_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2012/conjunto_de_datos_enoe_2012_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2012_2t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2012/conjunto_de_datos_enoe_2012_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2012_3t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2012/conjunto_de_datos_enoe_2012_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2012_4t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2013/conjunto_de_datos_enoe_2013_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2013_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2013/conjunto_de_datos_enoe_2013_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2013_2t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2013/conjunto_de_datos_enoe_2013_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2013_3t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2013/conjunto_de_datos_enoe_2013_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2013_4t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2014/conjunto_de_datos_enoe_2014_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2014_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2014/conjunto_de_datos_enoe_2014_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2014_2t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2014/conjunto_de_datos_enoe_2014_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2014_3t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2014/conjunto_de_datos_enoe_2014_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2014_4t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2015/conjunto_de_datos_enoe_2015_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2015_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2015/conjunto_de_datos_enoe_2015_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2015_2t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2015/conjunto_de_datos_enoe_2015_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2015_3t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2015/conjunto_de_datos_enoe_2015_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2015_4t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2016/conjunto_de_datos_enoe_2016_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2016_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2016/conjunto_de_datos_enoe_2016_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2016_2t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2016/conjunto_de_datos_enoe_2016_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2016_3t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2016/conjunto_de_datos_enoe_2016_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2016_4t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2017/2017_trim1_enoe_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': '2017_trim1_enoe_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2017/2017_trim2_enoe_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': '2017_trim2_enoe_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2017/2017_trim3_enoe_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': '2017_trim3_enoe_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2017/2017_trim4_enoe_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': '2017_trim4_enoe_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2018/2018_trim1_enoe_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': '2018_trim1_enoe_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2018/2018_trim2_enoe_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': '2018_trim2_enoe_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2018/2018_trim3_enoe_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': '2018_trim3_enoe_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2018/2018_trim4_enoe_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': '2018_trim4_enoe_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2019/conjunto_de_datos_enoe_2019_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2019_1t_csv.zip '},
+      
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2019/conjunto_de_datos_enoe_2019_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2019_2t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2019/conjunto_de_datos_enoe_2019_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2019_3t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2019/conjunto_de_datos_enoe_2019_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2019_4t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2020/conjunto_de_datos_enoe_2020_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2020_1t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2020/conjunto_de_datos_enoe_2020_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2020_3t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2020/conjunto_de_datos_enoe_2020_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2020_4t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2021/conjunto_de_datos_enoen_2021_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoen_2021_1t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2021/conjunto_de_datos_enoen_2021_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoen_2021_2t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2021/conjunto_de_datos_enoen_2021_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoen_2021_3t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2021/conjunto_de_datos_enoen_2021_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoen_2021_4t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2022/conjunto_de_datos_enoen_2022_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoen_2022_1t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2022/conjunto_de_datos_enoen_2022_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoen_2022_2t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2022/conjunto_de_datos_enoen_2022_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoen_2022_3t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2022/conjunto_de_datos_enoen_2022_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoen_2022_4t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2023/conjunto_de_datos_enoe_2023_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2023_1t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2023/conjunto_de_datos_enoe_2023_2t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2023_2t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2023/conjunto_de_datos_enoe_2023_3t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2023_3t_csv.zip '},
+ 
+ {'url': '\u200bhttps://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2023/conjunto_de_datos_enoe_2023_4t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2023_4t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2024/conjunto_de_datos_enoe_2024_1t_csv.zip ',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2024_1t_csv.zip '},
+ 
+ {'url': 'https://www.inegi.org.mx/contenidos/programas/enoe/15ymas/datosabiertos/2024/conjunto_de_datos_enoe_2024_2t_csv.zip',
+  'data': 'RU5DVUVTVEEgTkFDSU9OQUwgREUgT0NVUEFDSU9OIFkgRU1QTEVP',
+  'file_name': 'conjunto_de_datos_enoe_2024_2t_csv.zip'}
+]
+    
+
 # Descargar catalogos para adolescentes
     for item in adolescentes_cat:
         descargar_archivo_xlsx(item["url"], item["data"], folder_adolescentes, item["file_name"])
@@ -315,6 +655,26 @@ def main():
         print(f'La carpeta "ENSANUT-DATOS" ha sido borrada.')
     else:
         print(f'La carpeta "ENSANUT-DATOS" no existe.')
+      
+# Descargar datos del censo del siglo XX
+    for item in ccpv_siglo_XX:
+        descargar_archivo_xlsx(item["url"], item["data"], "CENSOS DE POBLACION Y VIVIENDA/DATOS SIGLO XX", item["file_name"])
+
+
+# Descargar datos del censo del siglo XXI
+    for item in ccpv_siglo_XXI:
+        descargar_archivo_zip(item["url"], item["data"],"CENSOS DE POBLACION Y VIVIENDA", item["file_name"], 'DATOS SIGLO XXI')
+
+# Descargar datos del ENAPE
+    for item in enape_2021:
+        descargar_archivo_zip(item["url"], item["data"],"ENCUESTA NACIONAL SOBRE ACCESO Y PERMANENCIA EN LA EDUCACION 2021", item["file_name"], 'DATOS ENAPE 2021')
+
+# Descargar datos del reporte del SEP
+    for item in sep_2023:
+        descargar_archivo_xlsx(item["url"], item["data"], "REPORTE DE INDICADORES EDUCATIVOS", item["file_name"])
+# Descarga de los datos de los ENOE
+    for item in enoe:
+        descargar_archivo_zip(item["url"], item["data"], "ENCUESTA NACIONAL DE OCUPACION Y EMPLEO", item["file_name"])
     
 if __name__ == "__main__":
     main()
